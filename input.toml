@@ -1,0 +1,25 @@
+costs = [123, 212]
+
+[[Things]]
+name = "A"
+value = 1.5
+num = 25
+costs = [2, 1]
+
+[[Things]]
+name = "B"
+value = 1.5
+num = 50
+costs = [3, 2]
+
+[[Things]]
+name = "C"
+value = 6.7
+num = 21
+costs = [4, 3]
+
+[[Things]]
+name = "D"
+value = 6.7
+num = 19
+costs = [5, 4]

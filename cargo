@@ -1,0 +1,11 @@
+costs = [10.0, 20.0]
+
+[[Things]]
+value = 1.5
+num = 2
+costs = [1.5, 2.0]
+
+[[Things]]
+value = 1.5
+num = 2
+costs = [1.8, 2.0]
